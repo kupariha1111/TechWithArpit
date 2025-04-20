@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 1,
             title: "Survival Game Run",
             description: "Running Our Survival Game",
-            thumbnail: "https://i.ytimg.com/vi/example1/maxresdefault.jpg",
+            thumbnail: ""C:\Users\hp\Downloads\Thumbnail.jpg"",
             url: "https://youtube.com/shorts/X6fCFC_wy2o?si=yXNBcimK1RkrffA6",
             language: "python"
         },
