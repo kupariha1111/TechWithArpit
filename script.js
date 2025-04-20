@@ -16,24 +16,25 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 1,
             title: "Survival Game Run",
             description: "Running Our Survival Game",
+            thumbnail: "https://i.ytimg.com/vi/example2/maxresdefault.jpg",
             url: "https://youtube.com/shorts/X6fCFC_wy2o?si=yXNBcimK1RkrffA6",
             language: "python"
         },
         {
             id: 2,
-            title: "JavaScript DOM Manipulation",
-            description: "Master the Document Object Model in JS",
+            title: "Flappy bird game run",
+            description: "Running Our Flappy bird game",
             thumbnail: "https://i.ytimg.com/vi/example2/maxresdefault.jpg",
-            url: "https://youtube.com/watch?v=example2",
-            language: "javascript"
+            url: "https://youtube.com/shorts/siRnXuA4Hv4?si=ZLrmqyh7ZjXL4GPP",
+            language: "python"
         },
         {
             id: 3,
-            title: "CSS Grid Layout Tutorial",
-            description: "Complete guide to CSS Grid",
+            title: "Shooting game tutorial",
+            description: "Running our Shooting game tutorial",
             thumbnail: "https://i.ytimg.com/vi/example3/maxresdefault.jpg",
-            url: "https://youtube.com/watch?v=example3",
-            language: "html"
+            url: "https://youtube.com/shorts/4iyQAL_98JI?si=bEizsZoSpVSbncEy",
+            language: "Python"
         }
     ];
 
