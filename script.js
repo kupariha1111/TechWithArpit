@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 1,
             title: "Survival Game Run",
-            description: "Learn how to scrape websites using BeautifulSoup",
+            description: "Running Our Survival Game",
             thumbnail: "https://i.ytimg.com/vi/example1/maxresdefault.jpg",
             url: "https://youtube.com/shorts/X6fCFC_wy2o?si=yXNBcimK1RkrffA6",
             language: "python"
