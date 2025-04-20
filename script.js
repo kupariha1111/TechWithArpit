@@ -14,10 +14,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const videos = [
         {
             id: 1,
-            title: "Python Web Scraping Tutorial",
+            title: "Survival Game Run",
             description: "Learn how to scrape websites using BeautifulSoup",
             thumbnail: "https://i.ytimg.com/vi/example1/maxresdefault.jpg",
-            url: "https://youtube.com/watch?v=example1",
+            url: "https://youtube.com/shorts/X6fCFC_wy2o?si=yXNBcimK1RkrffA6",
             language: "python"
         },
         {
